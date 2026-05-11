@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+checkpoints/
+data/
+*.mp4
+*.avi
+*.zip
+.streamlit/
