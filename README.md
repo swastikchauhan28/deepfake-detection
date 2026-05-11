@@ -188,9 +188,4 @@ Attention weights across frames:
 
 ---
 
-## Limitations (Week 9 — not yet addressed)
-- No mixed-precision training (fp16)
-- No data augmentation beyond basic flips/jitter
-- Single-scale face detection (misses extreme angles)
-- Not tested on compressed/low-bitrate videos
-- No ROC curve or AUC metric yet
+
